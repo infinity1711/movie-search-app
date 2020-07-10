@@ -1,0 +1,36 @@
+
+.m-card img{
+    height: 200px;
+    cursor: pointer;
+}
+.movie-desc{
+    padding: 10px 10px 10px 10px;
+    margin: 0;
+    background: #343a40;
+    color: #e2e2e2;
+    text-align: center;
+}
+.card-text{
+    margin-bottom: 10px !important;
+}
+
+.movie-desc p{
+    margin: 0;
+    font-size: 13px;
+}
+
+.fav-btn{
+    border: none !important;
+    color: #4CAF50 !important;
+    outline: none !important;
+    box-shadow: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.fav-btn:hover{
+    text-decoration: underline !important;
+}
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
